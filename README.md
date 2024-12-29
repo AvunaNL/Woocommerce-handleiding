@@ -2,10 +2,10 @@
 Deze handleiding helpt je om WooCommerce te installeren, configureren en gebruiken.
 
 ## Inhoud
-1. [Introductie](#introductie)
-2. [Installatie](#installatie)
-3. [Configuratie](#configuratie)
-4. [Veelgestelde vragen](#veelgestelde-vragen)
+1. [Installatie](installatie.md)
+2. [Configuratie](configuratie.md)
+3. [Gebruik](gebruik.md)
+4. [Veelgestelde vragen](faq.md)
 
 ## Introductie
 WooCommerce is een krachtige tool voor het bouwen van webshops in WordPress. 
